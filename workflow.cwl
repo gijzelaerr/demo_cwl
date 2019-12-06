@@ -9,7 +9,7 @@ inputs:
 outputs:
   some_output:
     type: File
-    outputSource: compile/classfile
+    outputSource: second/second_output
 
 steps:
   first:
