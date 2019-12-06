@@ -1,0 +1,4 @@
+an_input_file:
+  class: File
+  path: something.data
+a_string_argument: some_value
